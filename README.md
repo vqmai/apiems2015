@@ -6,6 +6,8 @@ Electronic business (e-business) is the execution of business transactions over 
 
 ### Dataset
 
+Bizrate dataset (last update: July 2015) [[link](https://github.com/vqmai/apiems2015/blob/master/000_Bizrate%20data.zip)]
+
 ### Bibtex
 ```
 @inproceedings{syszsy04,
