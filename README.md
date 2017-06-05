@@ -17,3 +17,5 @@ Bizrate dataset (last update: July 2015) [[link](https://github.com/vqmai/apiems
   author = {Mai Quynh-Vo, Mai Hong-Vo}
 }
 ```
+
+If you have any specific requests on our dataset/implementations, please contact us via voquymhmai.vn@gmail.com
