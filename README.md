@@ -1,4 +1,4 @@
-## Impacts of Logistics Performance on Customer Repurchase Intention in B2C Transactions: The Moderating Role of PostPurchase Service
+## Impacts of Logistics Performance on Customer Repurchase Intention in B2C Transactions: The Moderating Role of PostPurchase Service [[pdf](https://www.researchgate.net/publication/308717709_Impacts_of_Logistics_Performance_on_Customer_Repurchase_Intention_in_B2C_Transactions_The_Moderating_Role_of_Post-Purchase_Service?homeFeedVariantCode=wd_NU)]
 
 ### Abstract
 
