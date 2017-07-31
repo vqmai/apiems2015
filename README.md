@@ -18,4 +18,4 @@ Bizrate dataset (last update: July 2015) [[link](https://github.com/vqmai/apiems
 }
 ```
 
-_*If you have any specific requests on our dataset/implementations, please contact us via voquymhmai.vn@gmail.com_
+_*If you have any specific requests on our dataset/implementations, please contact us via voquynhmai.vn@gmail.com_
