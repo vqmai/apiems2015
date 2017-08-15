@@ -10,7 +10,7 @@ Bizrate dataset (last update: July 2015) [[link](https://github.com/vqmai/apiems
 
 ### Bibtex
 ```
-@inproceedings{syszsy04,
+@inproceedings{apiems,
   title = {Impacts of Logistics Performance on Customer Repurchase Intention in B2C Transactions: The Moderating Role of PostPurchase Service},
   year = {2015},
   booktitle = {Proceedings of the 16th Asia-Pacific Industrial Engineering and Management Systems Conference (APIEMS)},
